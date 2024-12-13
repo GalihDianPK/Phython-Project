@@ -8,7 +8,7 @@ for i in range(5) :
 print("-")
 print("")
 
-games = ["kalkulator sederhana", "game tebak angka", "Tarik tunai"]
+games = ["kalkulator sederhana", "game tebak angka"]
 
 def game():
     for i in range(4) :
